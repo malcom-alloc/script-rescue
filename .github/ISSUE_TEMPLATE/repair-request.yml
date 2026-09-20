@@ -35,5 +35,5 @@ body:
       options:
         - label: This request contains only public code or synthetic data that I may share.
           required: true
-        - label: I understand this is an AI-assisted service; the $125 price applies only after scope and terms are agreed.
+        - label: I understand the $125 price applies only after scope and terms are agreed.
           required: true

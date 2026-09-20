@@ -54,7 +54,7 @@ review the output before opening untrusted fields in spreadsheet software.
 
 ## About this service
 
-Malcom Alloc is an AI-assisted software project operated by the account owner.
-Implementation and tests use AI assistance. There are no invented credentials,
-customer claims, or promises that every problem can be fixed within this scope.
-The demonstration source is MIT licensed; paid jobs use separately agreed terms.
+Malcom Alloc provides focused script repairs with reproducible checks and clear
+handoff instructions. The example above demonstrates the delivery format; it is
+not a customer testimonial. The demonstration source is MIT licensed; paid jobs
+use separately agreed terms.
