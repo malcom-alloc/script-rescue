@@ -1,0 +1,68 @@
+[
+  {
+    "csv_record": 3,
+    "reasons": [
+      "duplicate_record_id"
+    ],
+    "original_fields": [
+      "00042",
+      "2026-09-18",
+      "0.10"
+    ]
+  },
+  {
+    "csv_record": 4,
+    "reasons": [
+      "duplicate_record_id"
+    ],
+    "original_fields": [
+      "00042",
+      "2026-09-18",
+      "0.20"
+    ]
+  },
+  {
+    "csv_record": 5,
+    "reasons": [
+      "invalid_iso_date"
+    ],
+    "original_fields": [
+      "00043",
+      "09/18/2026",
+      "9.99"
+    ]
+  },
+  {
+    "csv_record": 7,
+    "reasons": [
+      "invalid_iso_date"
+    ],
+    "original_fields": [
+      "00045",
+      "2026-02-30",
+      "1.00"
+    ]
+  },
+  {
+    "csv_record": 8,
+    "reasons": [
+      "invalid_amount"
+    ],
+    "original_fields": [
+      "00046",
+      "2026-09-19",
+      "NaN"
+    ]
+  },
+  {
+    "csv_record": 9,
+    "reasons": [
+      "invalid_amount"
+    ],
+    "original_fields": [
+      "00047",
+      "2026-09-19",
+      "3.456"
+    ]
+  }
+]

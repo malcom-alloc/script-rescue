@@ -1,0 +1,9 @@
+{
+  "input_sha256": "3fe62bcb0c224907cd7eb10f33122199e243fccbf1a6fd1df2fc96b27544f19c",
+  "input_records": 9,
+  "accepted_records": 3,
+  "rejected_records": 6,
+  "accepted_amount_total": "20.00",
+  "currency": "USD (declared demo input contract)",
+  "duplicate_policy": "quarantine all occurrences; never choose a winner"
+}

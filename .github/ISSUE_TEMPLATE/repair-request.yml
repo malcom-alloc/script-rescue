@@ -1,0 +1,39 @@
+name: Request a script repair
+description: Scope review for a $125 Python or CSV repair. Public, synthetic examples only.
+title: "Repair request: "
+body:
+  - type: markdown
+    attributes:
+      value: "This is a public scope request, not a purchase. Do not include private code, real customer data, passwords, or API keys. Scope, delivery date, acceptance, and payment must be agreed first."
+  - type: textarea
+    id: problem
+    attributes:
+      label: What breaks?
+      description: Expected behavior, actual behavior, and the command/error, with sensitive values removed.
+    validations:
+      required: true
+  - type: textarea
+    id: sample
+    attributes:
+      label: Minimal synthetic example
+      description: A small invented input and expected output. Describe private code instead of uploading it.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: "Python 3.12 on Windows; standard library only"
+  - type: input
+    id: deadline
+    attributes:
+      label: Desired deadline and time zone
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Before submitting
+      options:
+        - label: This request contains only public code or synthetic data that I may share.
+          required: true
+        - label: I understand this is an AI-assisted service; the $125 price applies only after scope and terms are agreed.
+          required: true
